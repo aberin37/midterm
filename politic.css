@@ -1,0 +1,97 @@
+body{
+    font-family: 'Droid Serif', serif;
+    font-size: 14px;
+    color: #2f2f2f;
+    background-color: #white;
+    text-align: justify;
+
+
+}
+
+ul {
+  background-color: grey;
+  text-align: center;
+  padding: 20px;
+}
+
+li {
+   
+  display: inline;
+  text-align: center;
+  margin: 70px;
+}
+
+ul {
+
+font-size: 20px
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+li {
+  display: inline;
+  text-align: center;
+  margin: 70px;
+}
+
+h1 {
+
+    font-family: "Cloister Black", CloisterBack, AppleGothic, sans-serif;
+ 
+    font-size: 50px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26px;
+
+    }
+
+
+.collumn .headline.hl3{
+    
+    font-family: "Cloister Black", CloisterBack, AppleGothic, sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26px;
+}
+.collumn .headline.hl4{
+   
+     font-weight: 700;
+    font-size: 12px;
+    box-sizing: border-box;
+    padding: 10px 0 10px 0;
+}
+.collumn .headline.hl4:before{
+     font-weight: 700;
+    font-size: 12px;
+    box-sizing: border-box;
+    padding: 10px 0 10px 0;
+}
+.collumn .headline.hl4:after{
+    border-bottom: 1px solid #2f2f2f;
+    content: '';
+    width: 100px;
+    height: 10px;
+    display: block;
+    margin: 0 auto;
+}
+.}
+.collumn .headline.hl4:before{
+    border-top: 1px solid #2f2f2f;
+    content: '';
+    width: 100px;
+    height: 7px;
+    display: block;
+    margin: 0 auto;
+}
+.collumn .headline.hl4:after{
+    border-bottom: 1px solid #2f2f2f;
+    content: '';
+    width: 100px;
+    height: 10px;
+    display: block;
+    margin: 0 auto;
+}
